@@ -1,0 +1,10 @@
+.moreworks{
+  padding:0rem ;
+  display: flex;
+  height: 100vh;
+  margin-top: 1rem;
+}
+.lower-cards{
+  margin-top: 14rem;
+  margin-bottom: 3rem;
+}

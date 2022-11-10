@@ -1,0 +1,10 @@
+.experience{
+
+    width:120px;
+    display: inline-block;
+   margin-left: 10vw;
+   margin-top: 15vh;
+    height: auto;
+    text-align: center;
+  color: var(--orange);
+}
